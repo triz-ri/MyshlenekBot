@@ -1,0 +1,265 @@
+2023-03-05 11:26:44 ERROR Received message: Does the Notion service provide the possibility to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:26:44 ERROR Conversation history: 
+NoneType: None
+2023-03-05 11:26:44 ERROR Before generate_response(): prompt = Does the Notion service provide the possibility to host Python script in the cloud?, conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:26:44 ERROR Prompt: Does the Notion service provide the possibility to host Python script in the cloud?
+2023-03-05 11:26:44 ERROR Before concatenation: prompt = Does the Notion service provide the possibility to host Python script in the cloud? conversation_history = 
+
+2023-03-05 11:26:44 ERROR After concatenation: prompt = oes the Notion service provide the possibility to host Python script in the cloud? conversation_history = 
+
+2023-03-05 11:26:44 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'oes the Notion service provide the possibility to host Python script in the cloud?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:26:44 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'oes the Notion service provide the possibility to host Python script in the cloud?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:26:46 ERROR After generate_response(): response = 
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+NoneType: None
+2023-03-05 11:26:46 ERROR After concatenation: conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+NoneType: None
+2023-03-05 11:26:47 ERROR Received message: Does the BlueOcean service provide the possibility to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:26:47 ERROR Conversation history: 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+NoneType: None
+2023-03-05 11:26:47 ERROR Before generate_response(): prompt = Does the BlueOcean service provide the possibility to host Python script in the cloud?, conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:26:47 ERROR Prompt: Does the BlueOcean service provide the possibility to host Python script in the cloud?
+2023-03-05 11:26:47 ERROR Before concatenation: prompt = Does the BlueOcean service provide the possibility to host Python script in the cloud? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+
+2023-03-05 11:26:47 ERROR After concatenation: prompt = Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+2023-03-05 11:26:47 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:26:47 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:26:50 ERROR After generate_response(): response = 
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+NoneType: None
+2023-03-05 11:26:50 ERROR After concatenation: conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+NoneType: None
+2023-03-05 11:28:03 ERROR Received message: Does the Notion service provide the possibility to host Python script in the cloud really?
+NoneType: None
+2023-03-05 11:28:03 ERROR Conversation history: 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+NoneType: None
+2023-03-05 11:28:03 ERROR Before generate_response(): prompt = Does the Notion service provide the possibility to host Python script in the cloud really?, conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+NoneType: None
+2023-03-05 11:28:03 ERROR Prompt: Does the Notion service provide the possibility to host Python script in the cloud really?
+2023-03-05 11:28:03 ERROR Before concatenation: prompt = Does the Notion service provide the possibility to host Python script in the cloud really? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+
+2023-03-05 11:28:03 ERROR After concatenation: prompt = Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+2023-03-05 11:28:03 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?\n\n\nNo, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.\nDoes the Notion service provide the possibility to host Python script in the cloud really?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:28:03 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?\n\n\nNo, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.\nDoes the Notion service provide the possibility to host Python script in the cloud really?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:28:06 ERROR After generate_response(): response = 
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+NoneType: None
+2023-03-05 11:28:06 ERROR After concatenation: conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+NoneType: None
+2023-03-05 11:31:09 ERROR Received message: Ok, thank. What is the most easiest way to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:31:09 ERROR Conversation history: 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+NoneType: None
+2023-03-05 11:31:09 ERROR Before generate_response(): prompt = Ok, thank. What is the most easiest way to host Python script in the cloud?, conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+Ok, thank. What is the most easiest way to host Python script in the cloud?
+NoneType: None
+2023-03-05 11:31:09 ERROR Prompt: Ok, thank. What is the most easiest way to host Python script in the cloud?
+2023-03-05 11:31:09 ERROR Before concatenation: prompt = Ok, thank. What is the most easiest way to host Python script in the cloud? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+
+2023-03-05 11:31:09 ERROR After concatenation: prompt = Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+Ok, thank. What is the most easiest way to host Python script in the cloud? conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+Ok, thank. What is the most easiest way to host Python script in the cloud?
+2023-03-05 11:31:09 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?\n\n\nNo, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.\nDoes the Notion service provide the possibility to host Python script in the cloud really?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.\nOk, thank. What is the most easiest way to host Python script in the cloud?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:31:09 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': "Does the Notion service provide the possibility to host Python script in the cloud?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.\nDoes the BlueOcean service provide the possibility to host Python script in the cloud?\n\n\nNo, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.\nDoes the Notion service provide the possibility to host Python script in the cloud really?\n\n\nYes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.\nOk, thank. What is the most easiest way to host Python script in the cloud?", 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-05 11:31:09 ERROR OpenAI API request failed with status code 400
+NoneType: None
+2023-03-05 11:31:09 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-05 11:31:09 ERROR After concatenation: conversation_history = 
+Does the Notion service provide the possibility to host Python script in the cloud?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time.
+Does the BlueOcean service provide the possibility to host Python script in the cloud?
+
+
+No, the BlueOcean service does not provide the possibility to host Python scripts in the cloud. BlueOcean is a DevOps automation tool designed to streamline and accelerate the process of software development, delivery, and deployment. BlueOcean does not offer any options for hosting Python scripts or any other type of scripts in the cloud.
+Does the Notion service provide the possibility to host Python script in the cloud really?
+
+
+Yes, the Notion service does provide the possibility to host Python scripts in the cloud. Notion's Python scripting feature allows users to store and run scripts, perform calculations, and create customized actions and triggers. Additionally, Notion's collaboration feature allows multiple users to work together on the same script in real time. Notion also offers support for hosting Python scripts in the cloud, providing users with the ability to access their scripts from anywhere.
+Ok, thank. What is the most easiest way to host Python script in the cloud?
+Seems, something happened, sorry.
+NoneType: None
