@@ -1,6 +1,6 @@
 # "MYSHLENEK",
 # writen by Sergei Sychev in cooperation with ChatGPT
-# Beta, 005.02.2023.
+# Beta, 0062.02.2023 (this version without the 'settings.py' file)
 
 ####################################
 
@@ -69,12 +69,22 @@
 
 # THE EXTERNAL LIBRARIES AND FILES in use:
 
+import os
 import logging
 import json
 import requests
 import time
 from json.decoder import JSONDecodeError
-from settings import TELEGRAM_API_KEY, CHAT_ID, OPENAI_API_KEY
+
+####################################
+
+# THE VARIABLE ENVIRONMENT
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+TELEGRAM_API_KEY = os.getenv('TELEGRAM_API_KEY')
+CHAT_ID = os.getenv('CHAT_ID')
+API_HASH = os.getenv('API_HASH')
+API_ID = os.getenv('API_ID')
 
 ####################################
 
@@ -157,6 +167,7 @@ logger.addHandler(console_handler)
 # and if the 'ok' key in the JSON data is True, the response JSON is returned.
 # Otherwise, an error message is logged, and the function returns None.
 
+
 def send_message(text):
     # Check if the message text is empty
     if not text:
@@ -212,6 +223,7 @@ def send_message(text):
 # The function takes in two arguments, 'prompt' and 'conversation_history'.
 # The prompt argument is a string that represents the starting point of the conversation,
 # while conversation_history is a list of strings that contains the previous conversation history.
+
 
 def generate_response(prompt, conversation_history):
     # Checks if the conversation_history is a string, and if it is not, joins the list using a newline character
@@ -318,6 +330,7 @@ def generate_response(prompt, conversation_history):
 # The 'update' argument contains the data from the User's message,
 # and the 'conversation_history' argument is a string containing the previous conversation history.
 
+
 def handle_message(update, conversation_history=""):
     try:
         # Check if the update has a 'message' field and a 'text' field
@@ -385,6 +398,7 @@ def handle_message(update, conversation_history=""):
 # If there are updates, they are returned as a list.
 # Otherwise, an error message is logged, and an empty list is returned.
 
+
 def get_updates(offset=None):
     # Construct the URL to retrieve updates from the Telegram API using the Telegram API key and offset
     url = "https://api.telegram.org/bot" + TELEGRAM_API_KEY + "/getUpdates"
@@ -440,6 +454,7 @@ def get_updates(offset=None):
 # it is executed when the script is loaded and before any of the other functions are called.
 # Once the constant is defined, its value is used in the main loop to control the frequency of polling.
 
+
 POLL_INTERVAL = 12  # Change the value as desired
 
 ####################################
@@ -473,7 +488,7 @@ while True:
                     conversation_history = handle_message(update, conversation_history)
                 except Exception as e:
                     error_msg = "Error handling update: {}".format(e)
-                    print("Debug:", debug_msg)
+                    print("Error:", error_msg)
                     logging.exception(error_msg)
 
     # Sleep for N seconds before polling the Telegram API again

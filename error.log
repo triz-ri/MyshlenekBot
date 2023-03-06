@@ -79,3 +79,469 @@ NoneType: None
 Are you living?
 Seems, something happened, sorry.
 NoneType: None
+2023-03-06 16:36:56 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 16:36:56 ERROR Conversation history: 
+NoneType: None
+2023-03-06 16:36:56 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 16:36:56 ERROR Prompt: Are you living?
+2023-03-06 16:36:56 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 16:36:56 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 16:36:56 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:36:56 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:36:56 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 16:36:56 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 16:36:56 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 16:39:39 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 16:39:39 ERROR Conversation history: 
+NoneType: None
+2023-03-06 16:39:39 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 16:39:39 ERROR Prompt: Are you living?
+2023-03-06 16:39:39 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 16:39:39 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 16:39:39 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:39:39 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:39:39 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 16:39:39 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 16:39:39 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:11:18 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:11:18 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:11:18 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:11:18 ERROR Prompt: Are you living?
+2023-03-06 17:11:18 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:11:18 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:11:18 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 17:11:18 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 17:11:19 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 17:11:19 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:11:19 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:28:37 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:28:37 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:28:37 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:28:37 ERROR Prompt: Are you living?
+2023-03-06 17:28:37 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:28:37 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:28:37 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:28:37 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:28:37 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 17:28:37 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:28:37 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:35:48 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:35:48 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:35:48 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:35:48 ERROR Prompt: Are you living?
+2023-03-06 17:35:48 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:35:48 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:35:48 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:35:48 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:35:49 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 17:35:49 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:35:49 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:36:34 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:36:34 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:36:34 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:36:34 ERROR Prompt: Are you living?
+2023-03-06 17:36:34 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:36:34 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:36:34 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 17:36:34 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 17:36:34 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 17:36:34 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:36:34 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:41:46 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:41:46 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:41:46 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:41:46 ERROR Prompt: Are you living?
+2023-03-06 17:41:46 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:41:46 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:41:46 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:41:46 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:41:47 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 17:41:47 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:41:47 ERROR After concatenation: conversation_history = 
+Are you living?
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 17:53:42 ERROR Received message: Are you living?
+NoneType: None
+2023-03-06 17:53:42 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:53:42 ERROR Before generate_response(): prompt = Are you living?, conversation_history = 
+Are you living?
+NoneType: None
+2023-03-06 17:53:42 ERROR Prompt: Are you living?
+2023-03-06 17:53:42 ERROR Before concatenation: prompt = Are you living? conversation_history = 
+
+2023-03-06 17:53:42 ERROR After concatenation: prompt = re you living? conversation_history = 
+
+2023-03-06 17:53:42 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:53:42 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 're you living?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:53:43 ERROR After generate_response(): response = 
+
+I am living in Missouri, USA.
+NoneType: None
+2023-03-06 17:53:43 ERROR After concatenation: conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+NoneType: None
+2023-03-06 17:54:24 ERROR Received message: Really in Missouri?
+NoneType: None
+2023-03-06 17:54:24 ERROR Conversation history: 
+Are you living?
+
+
+I am living in Missouri, USA.
+NoneType: None
+2023-03-06 17:54:24 ERROR Before generate_response(): prompt = Really in Missouri?, conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+NoneType: None
+2023-03-06 17:54:24 ERROR Prompt: Really in Missouri?
+2023-03-06 17:54:24 ERROR Before concatenation: prompt = Really in Missouri? conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+
+2023-03-06 17:54:24 ERROR After concatenation: prompt = Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri? conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+2023-03-06 17:54:24 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'Are you living?\n\n\nI am living in Missouri, USA.\nReally in Missouri?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:54:24 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'Are you living?\n\n\nI am living in Missouri, USA.\nReally in Missouri?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:54:25 ERROR After generate_response(): response = 
+
+Yes, really. I have lived here for several years now.
+NoneType: None
+2023-03-06 17:54:25 ERROR After concatenation: conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+NoneType: None
+2023-03-06 17:55:06 ERROR Received message: Is it beautiful city?
+NoneType: None
+2023-03-06 17:55:06 ERROR Conversation history: 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+NoneType: None
+2023-03-06 17:55:06 ERROR Before generate_response(): prompt = Is it beautiful city?, conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+Is it beautiful city?
+NoneType: None
+2023-03-06 17:55:06 ERROR Prompt: Is it beautiful city?
+2023-03-06 17:55:06 ERROR Before concatenation: prompt = Is it beautiful city? conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+
+2023-03-06 17:55:06 ERROR After concatenation: prompt = Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+Is it beautiful city? conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+Is it beautiful city?
+2023-03-06 17:55:06 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'Are you living?\n\n\nI am living in Missouri, USA.\nReally in Missouri?\n\n\nYes, really. I have lived here for several years now.\nIs it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:55:06 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'Are you living?\n\n\nI am living in Missouri, USA.\nReally in Missouri?\n\n\nYes, really. I have lived here for several years now.\nIs it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:55:07 ERROR After generate_response(): response = 
+
+Yes, it is a beautiful city with lots of parks and places to explore.
+NoneType: None
+2023-03-06 17:55:07 ERROR After concatenation: conversation_history = 
+Are you living?
+
+
+I am living in Missouri, USA.
+Really in Missouri?
+
+
+Yes, really. I have lived here for several years now.
+Is it beautiful city?
+
+
+Yes, it is a beautiful city with lots of parks and places to explore.
+NoneType: None
+2023-03-06 17:56:17 ERROR Received message: Is it beautiful city?
+NoneType: None
+2023-03-06 17:56:17 ERROR Conversation history: 
+NoneType: None
+2023-03-06 17:56:17 ERROR Before generate_response(): prompt = Is it beautiful city?, conversation_history = 
+Is it beautiful city?
+NoneType: None
+2023-03-06 17:56:17 ERROR Prompt: Is it beautiful city?
+2023-03-06 17:56:17 ERROR Before concatenation: prompt = Is it beautiful city? conversation_history = 
+
+2023-03-06 17:56:17 ERROR After concatenation: prompt = s it beautiful city? conversation_history = 
+
+2023-03-06 17:56:17 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 's it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:56:17 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 's it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:56:19 ERROR After generate_response(): response = 
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+NoneType: None
+2023-03-06 17:56:19 ERROR After concatenation: conversation_history = 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+NoneType: None
+2023-03-06 17:57:20 ERROR Received message: Is there any river in Edinburgh?
+NoneType: None
+2023-03-06 17:57:20 ERROR Conversation history: 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+NoneType: None
+2023-03-06 17:57:20 ERROR Before generate_response(): prompt = Is there any river in Edinburgh?, conversation_history = 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+Is there any river in Edinburgh?
+NoneType: None
+2023-03-06 17:57:20 ERROR Prompt: Is there any river in Edinburgh?
+2023-03-06 17:57:20 ERROR Before concatenation: prompt = Is there any river in Edinburgh? conversation_history = 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+
+2023-03-06 17:57:20 ERROR After concatenation: prompt = Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+Is there any river in Edinburgh? conversation_history = 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+Is there any river in Edinburgh?
+2023-03-06 17:57:20 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'Is it beautiful city?\n\n\nYes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.\nIs there any river in Edinburgh?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:57:20 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'Is it beautiful city?\n\n\nYes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.\nIs there any river in Edinburgh?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 17:57:23 ERROR After generate_response(): response = 
+
+Yes, Edinburgh is crossed by the River Forth and River Almond. The River Forth is the largest river in Scotland and is an important part of Edinburgh's iconic skyline. The River Almond is a smaller tributary which flows through the city center.
+NoneType: None
+2023-03-06 17:57:23 ERROR After concatenation: conversation_history = 
+Is it beautiful city?
+
+
+Yes, Edinburgh is a beautiful city with a stunning landscape and an abundance of historical and cultural attractions. Its cobbled streets, grand architecture, parks, and view of the surrounding hills make it a popular destination for visitors from all over the world.
+Is there any river in Edinburgh?
+
+
+Yes, Edinburgh is crossed by the River Forth and River Almond. The River Forth is the largest river in Scotland and is an important part of Edinburgh's iconic skyline. The River Almond is a smaller tributary which flows through the city center.
+NoneType: None
+2023-03-06 18:01:36 ERROR Received message: Is it beautiful city?
+NoneType: None
+2023-03-06 18:01:36 ERROR Conversation history: 
+NoneType: None
+2023-03-06 18:01:36 ERROR Before generate_response(): prompt = Is it beautiful city?, conversation_history = 
+Is it beautiful city?
+NoneType: None
+2023-03-06 18:01:36 ERROR Prompt: Is it beautiful city?
+2023-03-06 18:01:36 ERROR Before concatenation: prompt = Is it beautiful city? conversation_history = 
+
+2023-03-06 18:01:36 ERROR After concatenation: prompt = s it beautiful city? conversation_history = 
+
+2023-03-06 18:01:36 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 's it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 18:01:36 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 's it beautiful city?', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 18:01:38 ERROR After generate_response(): response = 
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+NoneType: None
+2023-03-06 18:01:38 ERROR After concatenation: conversation_history = 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+NoneType: None
+2023-03-06 18:01:38 ERROR Received message: Is there any river in Edinburgh?
+NoneType: None
+2023-03-06 18:01:38 ERROR Conversation history: 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+NoneType: None
+2023-03-06 18:01:38 ERROR Before generate_response(): prompt = Is there any river in Edinburgh?, conversation_history = 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+Is there any river in Edinburgh?
+NoneType: None
+2023-03-06 18:01:38 ERROR Prompt: Is there any river in Edinburgh?
+2023-03-06 18:01:38 ERROR Before concatenation: prompt = Is there any river in Edinburgh? conversation_history = 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+
+2023-03-06 18:01:38 ERROR After concatenation: prompt = Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+Is there any river in Edinburgh? conversation_history = 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+Is there any river in Edinburgh?
+2023-03-06 18:01:38 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': "Is it beautiful city?\n\n\nYes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.\nIs there any river in Edinburgh?", 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 18:01:38 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': "Is it beautiful city?\n\n\nYes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.\nIs there any river in Edinburgh?", 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 18:01:40 ERROR After generate_response(): response = 
+
+No, there is no river in Edinburgh. However, there are a few small canals and lochs (lakes) in the city.
+NoneType: None
+2023-03-06 18:01:40 ERROR After concatenation: conversation_history = 
+Is it beautiful city?
+
+
+Yes, San Francisco is a beautiful city. It's known for its stunning views of the bay and its iconic architecture. The streets are full of unique shops, restaurants, and art galleries, making it an interesting and vibrant city.
+Is there any river in Edinburgh?
+
+
+No, there is no river in Edinburgh. However, there are a few small canals and lochs (lakes) in the city.
+NoneType: None
