@@ -1,12 +1,8 @@
-OPENAI_API_KEY = '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'
+import os
+
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 TELEGRAM_API_KEY = '5884970781:AAEnu7pY0ZBS6v8ijiYW5WEQhSrHSpiVMCY'
 CHAT_ID = '-894272544'
 API_HASH = '8197c4df6310f01462bc366283dd8bd2'
 API_ID = '23707514'
-
-# openai_api_key = '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'
-# openai_api_key = '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'
-# openai_api_key = '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'
-
-# API N.E.RAZUMNY:
-# openai_api_key = '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'

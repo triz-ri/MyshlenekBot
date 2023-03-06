@@ -693,3 +693,135 @@ Hello, world!
 
 Hello World!
 NoneType: None
+2023-03-06 15:32:44 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 15:32:44 ERROR Conversation history: 
+NoneType: None
+2023-03-06 15:32:44 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 15:32:44 ERROR Prompt: Hello, world!
+2023-03-06 15:32:44 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 15:32:44 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 15:32:44 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:32:44 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:32:45 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 15:32:45 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:32:45 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:32:58 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 15:32:58 ERROR Conversation history: 
+NoneType: None
+2023-03-06 15:32:58 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 15:32:58 ERROR Prompt: Hello, world!
+2023-03-06 15:32:58 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 15:32:58 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 15:32:58 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:32:58 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:32:59 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 15:32:59 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:32:59 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:35:47 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 15:35:47 ERROR Conversation history: 
+NoneType: None
+2023-03-06 15:35:47 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 15:35:47 ERROR Prompt: Hello, world!
+2023-03-06 15:35:47 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 15:35:47 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 15:35:47 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:35:47 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:35:48 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 15:35:48 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:35:48 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:36:00 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 15:36:00 ERROR Conversation history: 
+NoneType: None
+2023-03-06 15:36:00 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 15:36:00 ERROR Prompt: Hello, world!
+2023-03-06 15:36:00 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 15:36:00 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 15:36:00 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:36:00 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 15:36:01 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 15:36:01 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:36:01 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:37:11 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 15:37:11 ERROR Conversation history: 
+NoneType: None
+2023-03-06 15:37:11 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 15:37:11 ERROR Prompt: Hello, world!
+2023-03-06 15:37:11 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 15:37:11 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 15:37:11 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 15:37:11 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 3900, 'top_p': 1, 'n': 1}
+2023-03-06 15:37:12 ERROR OpenAI API request failed with status code 429
+NoneType: None
+2023-03-06 15:37:12 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 15:37:12 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
+2023-03-06 16:02:39 ERROR Received message: Hello, world!
+NoneType: None
+2023-03-06 16:02:39 ERROR Conversation history: 
+NoneType: None
+2023-03-06 16:02:39 ERROR Before generate_response(): prompt = Hello, world!, conversation_history = 
+Hello, world!
+NoneType: None
+2023-03-06 16:02:39 ERROR Prompt: Hello, world!
+2023-03-06 16:02:39 ERROR Before concatenation: prompt = Hello, world! conversation_history = 
+
+2023-03-06 16:02:39 ERROR After concatenation: prompt = ello, world! conversation_history = 
+
+2023-03-06 16:02:39 ERROR Data sent to OpenAI API: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:02:39 ERROR Sending request to OpenAI with data: {'model': 'text-davinci-003', 'prompt': 'ello, world!', 'temperature': 0.9, 'max_tokens': 2200, 'top_p': 1, 'n': 1}
+2023-03-06 16:02:39 ERROR OpenAI API request failed with status code 401
+NoneType: None
+2023-03-06 16:02:39 ERROR After generate_response(): response = Seems, something happened, sorry.
+NoneType: None
+2023-03-06 16:02:39 ERROR After concatenation: conversation_history = 
+Hello, world!
+Seems, something happened, sorry.
+NoneType: None
