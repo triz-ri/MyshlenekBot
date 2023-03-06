@@ -4,7 +4,7 @@ import os
 import requests
 import time
 
-## from json.decoder import JSONDecodeError
+from json.decoder import JSONDecodeError
 
 # Import the handle_message function from your main code file
 from main.py import handle_message
