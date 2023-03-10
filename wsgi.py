@@ -7,7 +7,8 @@ import time
 from json.decoder import JSONDecodeError
 
 # Import the handle_message function from your main code file
-from main.py import handle_message
+from main import handle_message
+
 
 # Set up logging
 logging.basicConfig(level=logging.DEBUG)
