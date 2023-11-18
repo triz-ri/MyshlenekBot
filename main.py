@@ -254,7 +254,7 @@ def generate_response(prompt, conversation_history):
     # It creates a dictionary of parameters to be sent to the API.
     # It also sets the headers for the API request, including the content type and authorization key.
     data = {
-        "model": "text-davinci-003",
+        "model": "gpt-4-1106-preview",
         "prompt": prompt,
         "temperature": 0.9,
         "max_tokens": 2200,
