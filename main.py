@@ -4,7 +4,7 @@
 
 ####################################
 
-# THE PURPOSE OF THE SCRIPT "MYSHLENEK"
+# THE PURPOSE OF THE SCRIPT "MYSHLENEK" 
 
 # This script is a bot designed to generate responses to User input based on the conversation history
 # using OpenAI's text-generation API.
